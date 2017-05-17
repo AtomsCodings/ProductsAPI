@@ -1,3 +1,3 @@
 # ProductsAPI
 
-A MVC approach to practising APIs using Ajax and JQuery.
+A .NET Web API approach for practicing using APIs using Ajax and JQuery.
